@@ -15,17 +15,15 @@ int main()
     char b = '#';
     for (int i = 1; i <= n; ++i)
     {
-        //printf("%n", &i);
-        char str[n];
         for (int j = 0; j < n-i; ++j)
         {
-            strcpy(str, &a); 
+            printf(" ");
         }
         for (int j = 0; j < i; ++j)
         {
-            strcpy(str, &b);
+            printf("#");
         }
-        printf("%s", str);
+        printf("\n");
     }
     return 0;
 }
