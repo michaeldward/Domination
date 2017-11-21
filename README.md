@@ -17,4 +17,5 @@ Will complete solutions as a way to practice learning Haskell.
 Currently learning looping and skipping.
 
 ## USU ACM Spring 2017
-USU contest on March 31. Ranked 7th place overall and 3rd place among USU undergraduates.
+USU contest on March 31, 2017.  
+:trophy: Ranked 3rd place among USU students and 7th place overall (including professors and professionals).
