@@ -9,7 +9,7 @@ the ransom note. If the word in the note is not found
 in the magazine, the note cannot be made. If it is found,
 remove it from the list and repeat.
 
-Time efficiency: O(n)
+Time efficiency: O(n^2)
 
 Space efficiency: O(n)
 
